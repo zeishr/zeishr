@@ -14,6 +14,8 @@ instrumentation, reverse engineering, game security research, and fuzzing.
 
 ![Skills](https://skillicons.dev/icons?i=linux,bash,py,rust,&theme=dark)
 
+</div>
+
 ## Public work
 
 Selected public repositories and substantial forks grouped by area. Archived projects are kept visible
